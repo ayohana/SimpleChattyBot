@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/Problems-From_0_to_9.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/Problems-From_0_to_9.iml" group="SimpleChattyBot/Problems-From_0_to_9" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/Problems-From_0_to_9_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/Problems-From_0_to_9_main.iml" group="SimpleChattyBot/Problems-From_0_to_9" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/Problems-From_0_to_9_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/Problems-From_0_to_9_test.iml" group="SimpleChattyBot/Problems-From_0_to_9" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleChattyBot.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleChattyBot.iml" group="SimpleChattyBot" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" group="SimpleChattyBot/Simple_Chatty_Bot-task" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" group="SimpleChattyBot/Simple_Chatty_Bot-task" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" group="SimpleChattyBot/Simple_Chatty_Bot-task" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="SimpleChattyBot/util" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="SimpleChattyBot/util" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="SimpleChattyBot/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleChattyBot.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleChattyBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/SimpleChattyBot.Problems-From_0_to_9.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/SimpleChattyBot.Problems-From_0_to_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/SimpleChattyBot.Problems-From_0_to_9.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/SimpleChattyBot.Problems-From_0_to_9.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/SimpleChattyBot.Problems-From_0_to_9.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/From 0 to 9/SimpleChattyBot.Problems-From_0_to_9.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/SimpleChattyBot.Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/SimpleChattyBot.Simple_Chatty_Bot-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/SimpleChattyBot.Simple_Chatty_Bot-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/SimpleChattyBot.Simple_Chatty_Bot-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/SimpleChattyBot.Simple_Chatty_Bot-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/SimpleChattyBot.Simple_Chatty_Bot-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/SimpleChattyBot.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/SimpleChattyBot.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/SimpleChattyBot.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/SimpleChattyBot.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/SimpleChattyBot.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/SimpleChattyBot.util.test.iml" />
     </modules>
   </component>
 </project>
